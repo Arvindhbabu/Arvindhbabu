@@ -1,4 +1,4 @@
-## ✨Hi Guys... It's me Arvindh...
+## **✨Hi Guys... It's me Arvindh...**
 
 ---
 
@@ -9,9 +9,9 @@
 </div>
 
 ---
-<img align="right" width="370" height="290" src="C:\Users\varav\Pictures\Saved Pictures\My img\WhatsApp Image 2025-03-13 at 20.05.18_771cd8552.jpg">
+<img align="right" width="370" height="290" src="https://media.istockphoto.com/id/1452604857/photo/businessman-touching-the-brain-working-of-artificial-intelligence-automation-predictive.jpg?s=612x612&w=0&k=20&c=GkAOxzduJbUKpS2-LX_l6jSKtyhdKlnPMo2ito4xpR4=">
 
-### **EXECUTIVE SUMMARY**
+### **About me**
 
 “Passionate about Artificial Intelligence and its ability to solve real-world problems, I am seeking a Data Scientist or AI Engineer role where I can apply my skills in machine learning, predictive analytics, and deep learning. With hands-on experience through multiple internships and research publication, I meet the key expectations found in job descriptions—strong programming, model development, and problem-solving. I bring a solid foundation in AI, practical project experience, and strong communication skills, making me a valuable fit for data-driven and innovation-focused teams.”
 
