@@ -68,7 +68,7 @@
 ---
 
 
-### 💻 Workspace Spec
+### 💻 Laptop Spec
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Lenovo-Ideapad_Slim_3-0071C5?style=for-the-badge&logo=lenovo&logoColor=white"/>
   <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_12450H-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
