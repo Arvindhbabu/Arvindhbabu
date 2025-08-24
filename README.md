@@ -1,7 +1,6 @@
 ## **✨Hello... It's me Arvindh...**
 
 ---
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;AI+Enthusiast;Python+Developer;Pre-Final+Year+B.Tech+Student)
@@ -94,10 +93,12 @@
 
 ---
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Arvindh?ext=contest&theme=dark)](https://leetcode.com/u/arvindhbabu23/)
+![Leetcode Stats](https://readmecodegen.vercel.app/api/leetcode-stats/arvindhbabu23?theme=dark&font=%27Open+Sans%27%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal)
 
 ---
 
 [![Arvindh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arvindhbabu&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Arvindhbabu/github-readme-activity-graph)
+
+
 
 ---
