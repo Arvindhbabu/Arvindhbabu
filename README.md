@@ -18,7 +18,7 @@
 
 
 ### Social Presence
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arvindhbabuv23)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvindhbabu23@gmail.com)
@@ -29,40 +29,50 @@
 
 ---
 
+
 ### Programming and Coding
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" title="React" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" />
-<img height="50" width="50" src="https://img.icons8.com/officel/48/000000/php-logo.png" title="PHP" />
+<div class="icon-row">
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png"/>
+</div>
 
 ### Libraries and Frameworks
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" /> <img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy" /> 
-<img height="100" width="100" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" /> 
-<img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" />
+<div>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy"/>
+  <img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn"/>
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn"/>
+</div>
 
-
-### IDEs and Tools 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
-<img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+### IDEs and Tools
+<div>
+  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+  <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+  <img height="50" src="https://img.icons8.com/color/480/notion--v1.png"/>
+  <img height="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+</div>
 
 ### Cloud Platforms
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" /> <img height="50" width="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud" />
-<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="50" alt="AWS" />
-<img height="50" width="50" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" title="IBM Cloud" />
-
-
+<div>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"/>
+  <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud"/>
+  <img height="50" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS"/>
+  <img height="50" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" title="IBM Cloud"/>
+</div>
 
 ---
 
