@@ -99,16 +99,15 @@
 
 ---
 
-![Arvindh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arvindhbabu&theme=dark&show_icons=true&&hide=issues,contribs)
+![Arvindhbabu's GitHub Stats](https://readme-stats-github.pages.dev/api?username=Arvindhbabu&theme=shadow)
 
 ---
 
-![Leetcode Stats](https://readmecodegen.vercel.app/api/leetcode-stats/arvindhbabu23?theme=dark&font=%27Open+Sans%27%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Arvindhbabu&theme=shadow)
 
 ---
 
-[![Arvindh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arvindhbabu&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Arvindhbabu/github-readme-activity-graph)
-
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Code.%20Learn.%20Build.%20Repeat.&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%230d1117)
 
 
 ---
