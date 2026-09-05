@@ -3,7 +3,7 @@
 ---
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;AI+Enthusiast;Python+Developer;Final+Year+B.Tech+Student)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;AI+Enthusiast;Python+Developer;Software+Developer)
   
 </div>
 
@@ -33,16 +33,12 @@
 ### Programming and Coding
 <div class="icon-row">
   <img src="https://img.icons8.com/color/48/python.png"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/html-5.png"/>
   <img src="https://img.icons8.com/color/48/css3.png"/>
   <img src="https://img.icons8.com/color/48/javascript.png"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png"/>
-  <img src="https://img.icons8.com/officel/48/php-logo.png"/>
 </div>
 
 ### Libraries and Frameworks
@@ -62,22 +58,14 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
   <img height="50" src="https://img.icons8.com/color/480/notion--v1.png"/>
-  <img height="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 </div>
 
-### Cloud Platforms
-<div>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"/>
-  <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud"/>
-  <img height="50" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS"/>
-  <img height="50" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" title="IBM Cloud"/>
-</div>
 
 ---
 
 
-### 💻 Laptop Spec
+### Laptop Spec
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/Lenovo-Ideapad_Slim_3-0071C5?style=for-the-badge&logo=lenovo&logoColor=white"/>
   <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_12450H-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
@@ -90,8 +78,8 @@
 
 ### Certifications
 
-🎓 **Certifications:**
-- IBM Data Science Professional Certificate 
+- IBM Data Science Professional Certificate
+- Oracle Cloud Infrastructure Certified AI Foundations Associate
 - AWS Machine Learning Foundation
 - Google Fundamentals of Digital Marketing
 - MS Azure AI Fundamentals
