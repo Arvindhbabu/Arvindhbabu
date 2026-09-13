@@ -90,41 +90,59 @@ I enjoy working on projects that combine **AI/ML + Data + Software Engineering**
 
 ## 🚀 Featured Work
 
-> These projects represent the areas I want my GitHub profile to communicate most clearly. Repository details and claims should remain aligned with the actual implementation.
+> A selection of projects representing my work across **Artificial Intelligence, Machine Learning, Software Engineering, Research, and Data Science**. Project descriptions are intentionally aligned with the current repository implementations.
 
 ### 🔬 DeepVision AI
-**AI / Computer Vision**
+**AI / Computer Vision / Explainable AI**
 
-An AI-focused project centered on **deepfake detection, computer vision and explainable AI**, exploring practical approaches for identifying manipulated visual content.
+An explainable deepfake detection framework leveraging **Vision Transformers (ViT), temporal modeling, and Grad-CAM** for interpretable image and video forgery detection across benchmark datasets.
 
-**Focus:** Deep Learning · Computer Vision · Explainable AI · Model Analysis
-
----
-
-### 🏥 CareGrid
-**Full-Stack Software Engineering + Healthcare Technology**
-
-An integrated hospital management and clinical operations platform designed around connected workflows for patients, appointments, clinical operations, pharmacy, laboratory, billing and analytics.
-
-**Focus:** Next.js · React · TypeScript · FastAPI · Python · PostgreSQL · SQLAlchemy · Redis · Docker · JWT/RBAC
+**Focus:** Computer Vision · Deep Learning · PyTorch · Vision Transformers · Temporal Modeling · Grad-CAM · Explainable AI
 
 ---
 
-### 📈 LeetTracker
-**Data Engineering + Analytics + Software Development**
+### 🧠 OMNIS Cognitive OS
+**AI Systems / Multi-Agent Architecture / System Design**
 
-A platform for tracking coding activity and student progress, combining automated data collection, backend services, database storage and analytics.
+A modular **AI Cognitive Operating System** focused on memory, reasoning, retrieval, agent orchestration, and secure execution, with an emphasis on clean architecture and modular system design.
 
-**Focus:** Python · FastAPI · Database Systems · Automation · Analytics
+**Focus:** Python · React · TypeScript · AI Systems · Multi-Agent Architecture · Retrieval · Clean Architecture · System Design
 
 ---
 
-### 🛰️ SpaceY Launch Prediction Dashboard
-**Machine Learning + Data Visualization**
+### 🏥 CareGrid Healthcare Platform
+**Full-Stack Software Engineering / Healthcare Technology**
 
-A machine learning dashboard for predicting launch outcomes, combining predictive modeling with interactive visualizations and geospatial analysis.
+An AI-assisted hospital operating platform designed around connected workflows for **clinical care, emergency operations, diagnostics, pharmacy, billing, compliance, and patient services**.
 
-**Focus:** Python · Machine Learning · Logistic Regression · Streamlit · Plotly · Folium
+**Focus:** Next.js · TypeScript · React · FastAPI · Python · PostgreSQL · SQLAlchemy · Redis · Docker · JWT/RBAC
+
+---
+
+### 🔐 Quantum-Secure Messaging
+**Cybersecurity / Quantum Cryptography / Applied Research**
+
+A web-based quantum-secured messaging system integrating **BB84-based Quantum Key Distribution (QKD), QBER-driven intrusion detection, and hybrid QKD–PQC security** with real-time application-layer enforcement.
+
+**Focus:** Python · FastAPI · Quantum Key Distribution · BB84 · Post-Quantum Cryptography · QBER · Intrusion Detection
+
+---
+
+### 💼 Resume Career Intelligence
+**Applied AI / NLP / Career Intelligence**
+
+An evidence-grounded **AI Career Intelligence OS** for resume analysis, ATS simulation, job matching, career planning, application management, and interview readiness.
+
+**Focus:** Python · NLP · Machine Learning · Semantic Search · AI · Resume Analysis · Job Matching · Career Intelligence
+
+---
+
+### 🛰️ SpaceY Launch Prediction
+**Machine Learning / Data Science / Interactive Analytics**
+
+A machine learning project for predicting **SpaceX launch outcomes**, combining predictive modeling with interactive data visualization and geospatial analysis.
+
+**Focus:** Python · Machine Learning · Logistic Regression · Streamlit · Plotly · Folium · Data Visualization
 
 ---
 
